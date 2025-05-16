@@ -1,0 +1,18 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Blue Top Bar -->
+    <item android:top="0dp" android:bottom="90dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" />
+        </shape>
+    </item>
+
+    <item android:top="30dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#B6D8F2" />
+
+
+        </shape>
+    </item>
+
+</layer-list>
